@@ -1,0 +1,6 @@
+# FTW Transcriber (Lite) — dependencies
+# No speech-to-text (Whisper/Torch) in this build.
+
+pygame-ce>=2.5.0
+pynput>=1.7.6
+pydub>=0.25.1
